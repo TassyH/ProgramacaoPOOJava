@@ -12,10 +12,10 @@ public class TestaPontos {
 		p2.setX(8);
 		p2.setY(10);*/
 		
-		double resultado = new CalcularDistancia(p1, p2);
+	//	double resultado = new CalcularDistancia(p1, p2);
 		
 		
-		System.out.println(resultado);
+		//System.out.println(resultado);
 
 }
 }
