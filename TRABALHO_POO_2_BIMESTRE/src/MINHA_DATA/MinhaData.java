@@ -1,4 +1,4 @@
-package Atividade100PX;
+package MINHA_DATA;
 
 public class MinhaData {
 
