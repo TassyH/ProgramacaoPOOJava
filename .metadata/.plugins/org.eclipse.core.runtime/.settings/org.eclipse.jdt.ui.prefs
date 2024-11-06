@@ -1,7 +1,7 @@
 content_assist_completion_replacement_background=200,200,0
 content_assist_completion_replacement_foreground=200,0,0
 content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="HERANCA.PizzaBacon"><rhs name\="HERANCA.PizzaBacon"/></lhs><lhs name\="HERANCA.PizzaCalabresa"><rhs name\="HERANCA.PizzaCalabresa"/></lhs></history>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="HERANCA.PizzaBacon"><rhs name\="HERANCA.PizzaBacon"/></lhs><lhs name\="HERANCA.PizzaCalabresa"><rhs name\="HERANCA.PizzaCalabresa"/></lhs><lhs name\="CONTROLE_TV.ControleRemoto"><rhs name\="CONTROLE_TV.ControleRemoto"/></lhs><lhs name\="BANK.ContaBancaria"><rhs name\="BANK.ContaBancaria"/></lhs><lhs name\="QUESTAO_02.Losango"><rhs name\="QUESTAO_02.Losango"/></lhs><lhs name\="QUESTAO_04.TestarInvestidor"><rhs name\="QUESTAO_04.TestarInvestidor"/></lhs><lhs name\="QUESTAO_04.Investidor"><rhs name\="QUESTAO_04.Investidor"/></lhs></history>
 content_assist_number_of_computers=15
 content_assist_parameters_background=52,57,61
 content_assist_parameters_foreground=238,238,238

@@ -2,4 +2,10 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="HERANCA.PizzaBacon"/>
     <fullyQualifiedTypeName name="HERANCA.PizzaCalabresa"/>
+    <fullyQualifiedTypeName name="CONTROLE_TV.ControleRemoto"/>
+    <fullyQualifiedTypeName name="BANK.ContaBancaria"/>
+    <fullyQualifiedTypeName name="QUESTAO_02.Losango"/>
+    <fullyQualifiedTypeName name="QUESTAO_04.TestarInvestidor"/>
+    <fullyQualifiedTypeName name="QUESTAO_04.Investidor"/>
+    <fullyQualifiedTypeName name="QUESTAO_03.Ativo"/>
 </qualifiedTypeNameHistroy>
