@@ -47,7 +47,7 @@ public class PrincipalCadastrosPessoas {
 		        System.out.println("1 - CADASTRAR");
 		        System.out.println("2 - LISTAR");
 		        System.out.println("3 - PESQUISAR");
-		        System.out.println("4 - SAIR");
+		        System.out.println("4 - REMOVER");
 		        int opcao = teclado.nextInt();
 		        
 		        switch(opcao) {
@@ -60,7 +60,10 @@ public class PrincipalCadastrosPessoas {
 		        	case 3:
 		        		gerenciador.pesquisaPessoa(teclado, gerenciador);
 		        		break;
-		        	case 4:
+					case 4:
+		        		gerenciador.removerPessoa(teclado, gerenciador);
+		        		break;
+		        	case 5:
 		        		System.out.println("its over baby");
 		        		on = false;
 		        }		

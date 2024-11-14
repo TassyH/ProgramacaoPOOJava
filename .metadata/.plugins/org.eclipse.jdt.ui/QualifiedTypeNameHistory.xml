@@ -8,4 +8,5 @@
     <fullyQualifiedTypeName name="QUESTAO_04.TestarInvestidor"/>
     <fullyQualifiedTypeName name="QUESTAO_04.Investidor"/>
     <fullyQualifiedTypeName name="QUESTAO_03.Ativo"/>
+    <fullyQualifiedTypeName name="java.awt.dnd.DragGestureRecognizer"/>
 </qualifiedTypeNameHistroy>

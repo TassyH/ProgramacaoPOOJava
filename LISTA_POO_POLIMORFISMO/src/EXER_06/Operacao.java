@@ -27,7 +27,7 @@ public class Operacao {
 	}
 	
 	public double somar(int n1, int n2) {
-		return 
+		return n1+n2;
 	}
 
 		
